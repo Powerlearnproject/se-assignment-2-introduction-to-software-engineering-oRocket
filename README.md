@@ -11,7 +11,7 @@ Questions:
 
 `Software engineering` is the process of designing, creating, testing, and maintaining software applications by applying engineering principles. 
 
-Difference between software engineering and traditional programming
+`Difference between software engineering and traditional programming`
 1. `Software Engineering` involves the entire software lifecycle (planning, design, development, testing, maintenance) while `Traditional Programming` focuses mainly on writing code to solve specific problems.
 2. `Software Engineering` involves teamwork among developers, designers, testers, and clients while `Traditional Programming`: Often a solitary activity with less emphasis on teamwork.
 3. `Software Engineering` emphasizes testing and quality assurance while `Traditional Programming` focuses more on functionality, with less rigorous testing.
@@ -88,7 +88,7 @@ Difference between software engineering and traditional programming
     - Agile: Emphasizes working software over comprehensive documentation, though documentation is still important.
     - Waterfall: Emphasizes thorough documentation at every stage of development.
 
-`Scenarios Where Each Might Be Preferred:  
+`Scenarios Where Each Might Be Preferred`:  
 - Agile:
     - Projects where requirements are expected to change or evolve.
     - Projects that benefit from regular user feedback and iterative improvement.
@@ -121,7 +121,7 @@ Difference between software engineering and traditional programming
 5. Requirements Management:
     - Managing changes to the requirements throughout the project lifecycle, ensuring that all changes are tracked and stakeholders are informed.
 
-Importance of Requirements Engineering in the Software Development Lifecycle
+`Importance of Requirements Engineering in the Software Development Lifecycle`
 1.  Clarity and Understanding: Provides a clear understanding of what the software needs to achieve, reducing ambiguity and misunderstandings.
 2.  Scope Management: Helps define the project scope, preventing scope creep and ensuring the project stays on track.
 3.  Stakeholder Alignment: Ensures that all stakeholders have a shared understanding of the project goals and requirements, leading to better collaboration.
@@ -134,13 +134,13 @@ Importance of Requirements Engineering in the Software Development Lifecycle
 
 `Modularity` is the practice of dividing a software system into smaller, independent modules or components, each responsible for a specific aspect of functionality. These modules can be developed, tested, and maintained separately, and they interact with each other through well-defined interfaces.
 
-1. How Modularity Improves Maintainability:
+1. `How Modularity Improves Maintainability`:
     - Isolation of Changes: Changes made to one module have minimal impact on other modules. This reduces the risk of introducing bugs and makes it easier to understand and maintain the code.
     - Code Reusability: Modular code can be reused in different parts of the system or even in other projects, reducing redundancy and saving development time.
     - Encapsulation of Complexity: Each module hides its internal workings, exposing only what is necessary through its interface. This simplifies understanding and debugging of the system.
     - Parallel Development: Different teams or developers can work on different modules simultaneously, speeding up development and reducing bottlenecks.
 
-2. How Modularity Improves Scalability:
+2. `How Modularity Improves Scalability`:
     - Component-based Architecture: Modularity facilitates a component-based architecture, where new functionality can be added by integrating new modules or replacing existing ones without affecting the entire system.
     - Horizontal Scaling: Systems designed with modularity can be scaled horizontally by adding more instances of existing modules, distributing the workload across multiple servers or nodes.
     - Vertical Scaling: Individual modules can be optimized or replaced to improve performance or accommodate increased demands, without affecting the entire system.
@@ -148,7 +148,7 @@ Importance of Requirements Engineering in the Software Development Lifecycle
 
 ## Testing in Software Engineering:
 **Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?**
-Levels of Software Testing
+`Levels of Software Testing`
 1. Unit Testing:
     - Purpose: Tests individual units or components of the software in isolation to ensure they function correctly.
     - Scope: Focuses on small, atomic parts of the code, such as functions or methods.
@@ -173,7 +173,7 @@ Levels of Software Testing
     - Techniques: Often performed by users or stakeholders using real-world scenarios or test cases.
     - Example: A customer testing a mobile banking app to ensure it performs transactions accurately and securely.
 
-Importance of Testing in Software Development
+`Importance of Testing in Software Development`
 1. Quality Assurance: Ensures that the software meets quality standards and performs reliably in production environments.
 2. Bug Detection: Identifies defects early in the development process, reducing the cost and effort required for fixing them.
 3. Risk Mitigation: Helps mitigate the risk of software failures, errors, and security breaches that could have serious consequences for the business.
@@ -188,7 +188,7 @@ Importance of Testing in Software Development
 
 `Version control systems (VCS)` is also known as source code management (SCM) systems, are tools used to track changes to files and manage different versions of software projects. They allow multiple developers to collaborate on a project, keep track of changes, and revert to previous versions if needed.
 
-Importance in Software Development
+`Importance in Software Development`
 1. Collaboration: Enables multiple developers to work on the same codebase simultaneously, coordinating their changes and avoiding conflicts.
 2. Change Tracking: Tracks changes made to files over time, including who made the changes and when, providing a detailed history of the project's development.
 3. Reproducibility: Allows developers to revert to previous versions of files or the entire project, ensuring reproducibility and enabling easy rollback of changes if necessary.
@@ -196,7 +196,7 @@ Importance in Software Development
 5. Code Review: Supports code review processes by providing tools for reviewing changes, commenting on code, and discussing proposed modifications.
 6. Backup and Disaster Recovery: Serves as a backup mechanism for project files, protecting against data loss and facilitating disaster recovery.
 
-Examples of Popular Version Control Systems
+`Examples of Popular Version Control Systems`
 1. Git:
     - Features: Distributed version control, branching and merging, lightweight branching, staging area (index), high performance, extensive community support, open-source.
     - Usage: Widely used in both open-source and commercial projects, including Linux kernel development, GitHub, GitLab, and Bitbucket.
@@ -214,7 +214,7 @@ Examples of Popular Version Control Systems
 **Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?**
 A `software project manager` is responsible for planning, executing, and closing software development projects. They oversee the project’s progress, manage resources, and ensure that the project meets its goals within the given constraints.
 
-Key Responsibilities:
+`Key Responsibilities`:
 1. Project Planning:
     - Define project scope, objectives, and deliverables.
     - Develop a detailed project plan, including timelines, milestones, and resource allocation.
@@ -261,7 +261,7 @@ Key Responsibilities:
     - Conduct post-project evaluations and document lessons learned.
     - Release project resources and formally close the project.
 
-Challenges in Managing Software Projects:
+`Challenges in Managing Software Projects`:
 1. Scope Creep:
       Uncontrolled changes or continuous growth in project scope can lead to delays and cost overruns. Managing scope and maintaining focus on project objectives is crucial.
 
@@ -298,7 +298,7 @@ Challenges in Managing Software Projects:
 
 `Software maintenance` is the process of modifying and updating software applications after their initial deployment to correct faults, improve performance, enhance features, or adapt the software to a changing environment. It ensures that the software remains functional, efficient, and relevant over time.
 
-Types of Maintenance Activities
+`Types of Maintenance Activities`
 1. Corrective Maintenance:
     - Purpose: Fixing bugs and errors that are discovered after the software has been released.
     - Activities: Debugging code, correcting logic errors, and resolving issues reported by users.
@@ -319,7 +319,7 @@ Types of Maintenance Activities
     - Activities: Refactoring code, improving documentation, and conducting performance tuning to prevent future issues.
     - Example: Refactoring code to reduce complexity and improve maintainability, thus preventing future bugs.
 
-Importance of Maintenance in the Software Lifecycle
+`Importance of Maintenance in the Software Lifecycle`
 1. Ensures Longevity:
       Regular maintenance extends the life of the software by keeping it up-to-date and functional over time.
 
