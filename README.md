@@ -189,12 +189,12 @@ Importance of Testing in Software Development
 `Version control systems (VCS)` is also known as source code management (SCM) systems, are tools used to track changes to files and manage different versions of software projects. They allow multiple developers to collaborate on a project, keep track of changes, and revert to previous versions if needed.
 
 Importance in Software Development
-    1. Collaboration: Enables multiple developers to work on the same codebase simultaneously, coordinating their changes and avoiding conflicts.
-    2. Change Tracking: Tracks changes made to files over time, including who made the changes and when, providing a detailed history of the project's development.
-    3. Reproducibility: Allows developers to revert to previous versions of files or the entire project, ensuring reproducibility and enabling easy rollback of changes if necessary.
-    4. Branching and Merging: Facilitates the creation of branches for experimenting with new features or bug fixes, and merging them back into the main codebase once they are stable.
-    5. Code Review: Supports code review processes by providing tools for reviewing changes, commenting on code, and discussing proposed modifications.
-    6. Backup and Disaster Recovery: Serves as a backup mechanism for project files, protecting against data loss and facilitating disaster recovery.
+1. Collaboration: Enables multiple developers to work on the same codebase simultaneously, coordinating their changes and avoiding conflicts.
+2. Change Tracking: Tracks changes made to files over time, including who made the changes and when, providing a detailed history of the project's development.
+3. Reproducibility: Allows developers to revert to previous versions of files or the entire project, ensuring reproducibility and enabling easy rollback of changes if necessary.
+4. Branching and Merging: Facilitates the creation of branches for experimenting with new features or bug fixes, and merging them back into the main codebase once they are stable.
+5. Code Review: Supports code review processes by providing tools for reviewing changes, commenting on code, and discussing proposed modifications.
+6. Backup and Disaster Recovery: Serves as a backup mechanism for project files, protecting against data loss and facilitating disaster recovery.
 
 Examples of Popular Version Control Systems
 1. Git:
