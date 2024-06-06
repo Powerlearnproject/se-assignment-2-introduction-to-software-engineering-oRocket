@@ -122,12 +122,12 @@ Difference between software engineering and traditional programming
     - Managing changes to the requirements throughout the project lifecycle, ensuring that all changes are tracked and stakeholders are informed.
 
 Importance of Requirements Engineering in the Software Development Lifecycle
-    1.  Clarity and Understanding: Provides a clear understanding of what the software needs to achieve, reducing ambiguity and misunderstandings.
-    2.  Scope Management: Helps define the project scope, preventing scope creep and ensuring the project stays on track.
-    3.  Stakeholder Alignment: Ensures that all stakeholders have a shared understanding of the project goals and requirements, leading to better collaboration.
-    4.  Risk Reduction: Identifies potential issues and conflicts early in the project, reducing the risk of costly changes and rework later on.
-    5.  Quality Assurance: Establishes a basis for developing test cases and validation criteria, ensuring the final product meets user expectations and quality standards.
-    6.  Cost and Time Efficiency: By defining clear requirements, it helps in creating accurate project estimates, reducing delays, and controlling costs.
+1.  Clarity and Understanding: Provides a clear understanding of what the software needs to achieve, reducing ambiguity and misunderstandings.
+2.  Scope Management: Helps define the project scope, preventing scope creep and ensuring the project stays on track.
+3.  Stakeholder Alignment: Ensures that all stakeholders have a shared understanding of the project goals and requirements, leading to better collaboration.
+4.  Risk Reduction: Identifies potential issues and conflicts early in the project, reducing the risk of costly changes and rework later on.
+5.  Quality Assurance: Establishes a basis for developing test cases and validation criteria, ensuring the final product meets user expectations and quality standards.
+6.  Cost and Time Efficiency: By defining clear requirements, it helps in creating accurate project estimates, reducing delays, and controlling costs.
 
 ## Software Design Principles:
 **Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?**
@@ -174,13 +174,13 @@ Levels of Software Testing
     - Example: A customer testing a mobile banking app to ensure it performs transactions accurately and securely.
 
 Importance of Testing in Software Development
-    1. Quality Assurance: Ensures that the software meets quality standards and performs reliably in production environments.
-    2. Bug Detection: Identifies defects early in the development process, reducing the cost and effort required for fixing them.
-    3. Risk Mitigation: Helps mitigate the risk of software failures, errors, and security breaches that could have serious consequences for the business.
-    4. Customer Satisfaction: Increases customer satisfaction by delivering a high-quality, bug-free product that meets their needs and expectations.
-    5. Continuous Improvement: Provides feedback for continuous improvement of the software and development process, leading to better products and more efficient workflows.
-    6. Compliance and Regulation: Ensures that the software complies with industry standards, regulations, and best practices, reducing legal and financial risks for the organization.
-    7. Confidence in Deployment: Provides confidence in deploying new features or updates to production environments, knowing that they have been thoroughly tested and validated.
+1. Quality Assurance: Ensures that the software meets quality standards and performs reliably in production environments.
+2. Bug Detection: Identifies defects early in the development process, reducing the cost and effort required for fixing them.
+3. Risk Mitigation: Helps mitigate the risk of software failures, errors, and security breaches that could have serious consequences for the business.
+4. Customer Satisfaction: Increases customer satisfaction by delivering a high-quality, bug-free product that meets their needs and expectations.
+5. Continuous Improvement: Provides feedback for continuous improvement of the software and development process, leading to better products and more efficient workflows.
+6. Compliance and Regulation: Ensures that the software complies with industry standards, regulations, and best practices, reducing legal and financial risks for the organization.
+7. Confidence in Deployment: Provides confidence in deploying new features or updates to production environments, knowing that they have been thoroughly tested and validated.
 
 
 ## Version Control Systems:
