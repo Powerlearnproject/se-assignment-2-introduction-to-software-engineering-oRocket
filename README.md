@@ -60,42 +60,42 @@ Difference between software engineering and traditional programming
 **Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?**
 
 `Key Differences`:
-Process Flow:
+1. Process Flow:
     - Agile: Iterative and incremental. Develops software in small, manageable increments called sprints or iterations.
     - Waterfall: Linear and sequential. Each phase must be completed before moving to the next.
 
-Flexibility:
+2. Flexibility:
     - Agile: Highly flexible, easily adapts to changing requirements and stakeholder feedback.
     - Waterfall: Less flexible, changes are difficult to implement once the project has started.
 
-Requirements:
+3. Requirements:
     - Agile: Requirements are gathered throughout the project. Adjustments are made as needed.
     - Waterfall: All requirements are gathered at the beginning of the project and must be clearly defined upfront.
 
-Project Delivery:
+4. Project Delivery:
     - Agile: Delivers functional software components regularly (e.g., every 2-4 weeks).
     - Waterfall: Delivers the complete software product at the end of the development cycle.
 
-Stakeholder Involvement:
+5. Stakeholder Involvement:
     - Agile: Continuous stakeholder collaboration and feedback throughout the development process.
     - Waterfall: Stakeholder involvement mainly at the beginning (requirements phase) and end (delivery phase).
 
-Testing:
+6. Testing:
     - Agile: Testing is integrated into each iteration, allowing for continuous testing and quality assurance.
     - Waterfall: Testing is conducted after the development phase, potentially leading to more significant issues being discovered later in the process.
 
-Documentation:
+7. Documentation:
     - Agile: Emphasizes working software over comprehensive documentation, though documentation is still important.
     - Waterfall: Emphasizes thorough documentation at every stage of development.
 
 `Scenarios Where Each Might Be Preferred:  
-Agile:
+- Agile:
     - Projects where requirements are expected to change or evolve.
     - Projects that benefit from regular user feedback and iterative improvement.
     - Complex projects requiring high flexibility and adaptability.
     - When time-to-market is critical and early delivery of a functional product is needed.
 
-Waterfall:
+- Waterfall:
     - Projects with well-defined, stable requirements that are unlikely to change.
     - Projects with clear objectives and deliverables.
     - Regulatory or compliance-driven projects where documentation and a sequential process are essential.
@@ -106,19 +106,19 @@ Waterfall:
 
 `Requirements engineering` is the process of defining, documenting, and maintaining the requirements for a software project. It ensures that the software meets the needs of its users and other stakeholders. Key activities in requirements engineering include:
 
-Requirements Elicitation:
+1. Requirements Elicitation:
     - Gathering requirements from stakeholders through interviews, surveys, observations, and other techniques.
 
-Requirements Analysis:
+2. Requirements Analysis:
     - Analyzing and refining the gathered requirements to ensure they are clear, complete, and feasible.
 
-Requirements Specification:
+3. Requirements Specification:
     - Documenting the requirements in a clear and detailed manner, typically in a requirements specification document.
 
-Requirements Validation:
+4. Requirements Validation:
     - Ensuring that the documented requirements accurately reflect the needs of the stakeholders and that they are achievable within the project's constraints.
 
-Requirements Management:
+5. Requirements Management:
     - Managing changes to the requirements throughout the project lifecycle, ensuring that all changes are tracked and stakeholders are informed.
 
 Importance of Requirements Engineering in the Software Development Lifecycle
@@ -134,13 +134,13 @@ Importance of Requirements Engineering in the Software Development Lifecycle
 
 `Modularity` is the practice of dividing a software system into smaller, independent modules or components, each responsible for a specific aspect of functionality. These modules can be developed, tested, and maintained separately, and they interact with each other through well-defined interfaces.
 
-How Modularity Improves Maintainability:
+1. How Modularity Improves Maintainability:
     - Isolation of Changes: Changes made to one module have minimal impact on other modules. This reduces the risk of introducing bugs and makes it easier to understand and maintain the code.
     - Code Reusability: Modular code can be reused in different parts of the system or even in other projects, reducing redundancy and saving development time.
     - Encapsulation of Complexity: Each module hides its internal workings, exposing only what is necessary through its interface. This simplifies understanding and debugging of the system.
     - Parallel Development: Different teams or developers can work on different modules simultaneously, speeding up development and reducing bottlenecks.
 
-How Modularity Improves Scalability:
+2. How Modularity Improves Scalability:
     - Component-based Architecture: Modularity facilitates a component-based architecture, where new functionality can be added by integrating new modules or replacing existing ones without affecting the entire system.
     - Horizontal Scaling: Systems designed with modularity can be scaled horizontally by adding more instances of existing modules, distributing the workload across multiple servers or nodes.
     - Vertical Scaling: Individual modules can be optimized or replaced to improve performance or accommodate increased demands, without affecting the entire system.
