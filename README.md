@@ -122,12 +122,12 @@ Difference between software engineering and traditional programming
     - Managing changes to the requirements throughout the project lifecycle, ensuring that all changes are tracked and stakeholders are informed.
 
 Importance of Requirements Engineering in the Software Development Lifecycle
-    - Clarity and Understanding: Provides a clear understanding of what the software needs to achieve, reducing ambiguity and misunderstandings.
-    - Scope Management: Helps define the project scope, preventing scope creep and ensuring the project stays on track.
-    - Stakeholder Alignment: Ensures that all stakeholders have a shared understanding of the project goals and requirements, leading to better collaboration.
-    - Risk Reduction: Identifies potential issues and conflicts early in the project, reducing the risk of costly changes and rework later on.
-    - Quality Assurance: Establishes a basis for developing test cases and validation criteria, ensuring the final product meets user expectations and quality standards.
-    - Cost and Time Efficiency: By defining clear requirements, it helps in creating accurate project estimates, reducing delays, and controlling costs.
+    1.  Clarity and Understanding: Provides a clear understanding of what the software needs to achieve, reducing ambiguity and misunderstandings.
+    2.  Scope Management: Helps define the project scope, preventing scope creep and ensuring the project stays on track.
+    3.  Stakeholder Alignment: Ensures that all stakeholders have a shared understanding of the project goals and requirements, leading to better collaboration.
+    4.  Risk Reduction: Identifies potential issues and conflicts early in the project, reducing the risk of costly changes and rework later on.
+    5.  Quality Assurance: Establishes a basis for developing test cases and validation criteria, ensuring the final product meets user expectations and quality standards.
+    6.  Cost and Time Efficiency: By defining clear requirements, it helps in creating accurate project estimates, reducing delays, and controlling costs.
 
 ## Software Design Principles:
 **Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?**
